@@ -8,4 +8,4 @@ Today i want to add to my app async_await syntax and after that i want to handle
 My App.js file then looks like this after all the changes ![Screenshot_2](https://user-images.githubusercontent.com/90603989/176935966-cfc57334-98ea-4d53-aa86-9a2256bbed45.png)  
 ## Day 43  
 In order for my app to show the data from the API every time it is loading instead of only showing when pressing the button Fetch Movies i will use the useEffect hook to handle the Requests. After that i will prepare my app to be able to send a POST Request and connect it to a firebase realtime database. My App.js file then looks like this ![Screenshot_3](https://user-images.githubusercontent.com/90603989/176996869-0a8b0df3-aab2-4056-950b-20aae8fea409.png)  
-In order now to send a POST Request, i will tweek my code in App.js and work on addMovieHandler to experiment how it is done. Mycode then looks like this
+In order now to send a POST Request, i will tweek my code in App.js and work on addMovieHandler to experiment how it is done. Mycode then looks like this ![Screenshot_1](https://user-images.githubusercontent.com/90603989/177037440-0698564e-5cc6-4480-b0db-a6f84a6e9439.png)
